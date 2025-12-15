@@ -1,6 +1,6 @@
 <Project>
 	<PropertyGroup>
-		<DredgePath>C:\Program Files (x86)\Steam\steamapps\common\DREDGE</DredgePath>
+		<DredgePath>C:\My Programs\Steam\steamapps\common\DREDGE</DredgePath>
 		<OutputPath>$(DredgePath)\Mods\AudaciousBovine.DredgeMooTemplate</OutputPath>
 	</PropertyGroup>
 </Project>
