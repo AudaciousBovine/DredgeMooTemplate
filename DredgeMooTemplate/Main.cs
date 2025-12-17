@@ -10,6 +10,7 @@ namespace DredgeMooTemplate
         /// </summary>
         public static void Initialize()
         {
+            /// RUNS HARMONY PATCHES
             new Harmony("com.AudaciousBovine.DredgeMooTemplate").PatchAll(Assembly.GetExecutingAssembly());
         }
     }
