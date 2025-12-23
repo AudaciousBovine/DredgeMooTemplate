@@ -3,6 +3,11 @@
 # MOO Template
 ### A Dredge Mod Template for my mods with the things I've learned and as a reminder for myself! I tried to do my best to comment within the script files to help understanding of how they work
 
+## Using This Template
+- Press "Use This Template" in the top right
+- Name the repository your mod name
+- It creates a copy to use and edit as you see fit
+
 ## mod_meta.json
 The main mod info file, make sure to always update it
 
