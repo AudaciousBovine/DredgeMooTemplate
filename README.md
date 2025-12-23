@@ -29,7 +29,7 @@ new Harmony("com.Username.Modname").PatchAll(Assembly.GetExecutingAssembly());
 
 Example Patches Folder
 - Contains patches ive made for editing
-- Edit or delete Example Patches folder before compiling
+- Edit or delete Example Patches folder before building the mod
 
 ## ModName.sln
 The solution file is one of the files that is used by IDEs to tell how the mod files are set up
