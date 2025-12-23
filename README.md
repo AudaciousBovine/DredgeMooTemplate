@@ -9,7 +9,7 @@
 - It creates a copy to use and edit as you see fit
 
 ## mod_meta.json
-The main mod info file, make sure to always update it
+- The main mod info file, make sure to always update it
 
 "ModAssemply" 
 - is what the final mod assembly file will be called
