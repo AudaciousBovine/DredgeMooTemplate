@@ -1,3 +1,5 @@
+
+![MOO Title](/Images/DredgeMoo.png)
 # MOO Template
 ### A Dredge Mod Template for my mods with the things I've learned and as a reminder for myself! I tried to do my best to comment within the script files to help understanding of how they work
 
@@ -57,3 +59,8 @@ The solution file is one of the files that is used by IDEs to tell how the mod f
 ![Mod Updates](/Images/DredgeUpdates.png)
 ![Mod Description](/Images/DredgeDescription.png)
 ![Mod Installation](/Images/DredgeInstallation.png)
+![Mod Credits](/Images/DredgeCredits.png)
+![Mod Credits And Special Thanks](/Images/DredgeCreditsAndSpecialThanks.png)
+![Mod Credits And Special Thanks ♥](/Images/DredgeCreditsAndSpecialThanksHeart.png)
+![Mod Recommendations](/Images/DredgeRecommendedMods.png)
+![Mod Other Mods](/Images/DredgeMyOtherMods.png)
