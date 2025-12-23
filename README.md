@@ -56,6 +56,14 @@ The solution file is one of the files that is used by IDEs to tell how the mod f
 - holds the string values for the english localization that the game replaces the addresses in code with
 - address format is "Modname.Category.SpecificCategory"
 
+## "Building" The Mod
+- To actually package the mod a build task must be run
+- If all the prerequisites are properly installed
+- Click the top left "Terminal" option
+- Press "Run Build Task..."
+- Top Center some options appear
+- Select "dotnet: build"
+
 ## Images
 - Just my own media asset images I use when making a DREDGE mod page
 - Just link to these images to have them in README files and such
