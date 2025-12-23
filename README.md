@@ -63,4 +63,7 @@ The solution file is one of the files that is used by IDEs to tell how the mod f
 ![Mod Credits And Special Thanks](/Images/DredgeCreditsAndSpecialThanks.png)
 ![Mod Credits And Special Thanks ♥](/Images/DredgeCreditsAndSpecialThanksHeart.png)
 ![Mod Recommendations](/Images/DredgeRecommendedMods.png)
+![Mod Recommendations](/Images/DredgeModRecommendations.png)
+![Mod Recommendations](/Images/DredgeOtherModsYouShouldUse.png)
 ![Mod Other Mods](/Images/DredgeMyOtherMods.png)
+![Mod Other Mods](/Images/DredgeOtherModsByMe.png)
