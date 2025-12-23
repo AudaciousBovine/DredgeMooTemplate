@@ -27,6 +27,10 @@ new Harmony("com.Username.Modname").PatchAll(Assembly.GetExecutingAssembly());
 - Runs before a method or after a method is run by the game respectively
 - Patchname_Patch.cs files should be consolidated in a "Patches" folder or categorized folders for good file management
 
+Example Patches Folder
+- Contains patches ive made for editing
+- Edit or delete Example Patches folder before compiling
+
 ## ModName.sln
 The solution file is one of the files that is used by IDEs to tell how the mod files are set up
 - Remember to change the line that starts with "Project" to have the mod name
