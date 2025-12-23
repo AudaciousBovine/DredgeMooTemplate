@@ -1,4 +1,4 @@
-﻿﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugType>portable</DebugType>
@@ -26,7 +26,7 @@
     <None Include="default_config.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="MalignantSplashes.csproj.user" />
+    <None Include="DredgeMooTemplate.csproj.user" />
   </ItemGroup>
 
   <ItemGroup>
