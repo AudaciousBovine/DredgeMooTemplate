@@ -37,17 +37,23 @@ The solution file is one of the files that is used by IDEs to tell how the mod f
 ## ModName.csproj.user
 - make sure to change to your own DREDGE filepath
 
+## default_config.json
+- The default config the game uses
+- This will show up in the game Mod menu
+- examples of all the config types are inside
+- rename them as needed
+
 ## Assets
 - any assets the mod uses go in here in their respective folders
 
 ## Assets/Localization/en.json
 - holds the string values for the english localization that the game replaces the addresses in code with
-- address format is "Username.Modname.Category.SpecificCategory
+- address format is "Modname.Category.SpecificCategory"
 
 ## Images
 - Just my own media asset images I use when making a DREDGE mod page
 - Just link to these images to have them in README files and such
-- Free to use by anyone (Credits maybee)
+- Free to use by anyone
 ![Mod Updates](/Images/DredgeUpdates.png)
 ![Mod Description](/Images/DredgeDescription.png)
 ![Mod Installation](/Images/DredgeInstallation.png)
