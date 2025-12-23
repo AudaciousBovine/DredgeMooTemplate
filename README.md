@@ -48,3 +48,6 @@ The solution file is one of the files that is used by IDEs to tell how the mod f
 - Just my own media asset images I use when making a DREDGE mod page
 - Just link to these images to have them in README files and such
 - Free to use by anyone (Credits maybee)
+![Mod Updates](/Images/DredgeUpdates.png)
+![Mod Description](/Images/DredgeDescription.png)
+![Mod Installation](/Images/DredgeInstallation.png)
