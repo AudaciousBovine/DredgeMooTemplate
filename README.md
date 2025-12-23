@@ -37,7 +37,7 @@ Example Patches Folder
 - Edit or delete Example Patches folder before building the mod
 
 ## ModName.sln
-The solution file is one of the files that is used by IDEs to tell how the mod files are set up
+- The solution file is one of the files that is used by IDEs to tell how the mod files are set up
 - Remember to change the line that starts with "Project" to have the mod name
 
 ## ModName.csproj
