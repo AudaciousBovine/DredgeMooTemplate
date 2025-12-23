@@ -8,7 +8,7 @@ The main mod info file, make sure to always update it
 
 "ModAssemply" 
 - is what the final mod assembly file will be called
-- should be the mod name with no spaces .dll
+- should be ModName.dll
 
 "Entrypoint"
 - the first class (.cs file) and method that runs when the mod loads
